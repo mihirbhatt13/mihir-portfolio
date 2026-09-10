@@ -134,7 +134,7 @@ export const PORTFOLIO_DATA = {
         "AI Content Classification",
         "Document Processing"
       ],
-      liveDemoUrl: "https://newspaper-ocr-proceappr-2btyswj7o2ef4rydfvxq3y.streamlit.app/",
+      liveDemoUrl: "https://newspaper-ocr-processor-azrv.vercel.app/",
       description: "Built and deployed an AI-powered newspaper processing application that uses OCR and intelligent text filtering to automatically identify, classify, summarize, and structure positive-impact education news from newspaper documents.",
       features: [
         "Newspaper document/image OCR processing",
